@@ -4,6 +4,7 @@ Let’s Build A Simple Interpreter. Part 1.
 
 
 > **" If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work."** -- Steve Yegge
+> **"如果你不知道编译器如何工作，那么你也就不知道计算机如何工作。如果你不能100%的肯定自己是否了解编译器如何工作，那么可以说你不知道编译器是如何工作的。“** --Steve Yegge
 
 There you have it. Think about it. It doesn't really matter whether you're a newbie or a seasoned software developer: if you don't know how compilers and interpreters work, then you don't know how computers work. It's that simple.
 
